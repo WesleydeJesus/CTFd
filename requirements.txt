@@ -127,6 +127,8 @@ passlib==1.7.4
     # via -r requirements.in
 pillow==11.3.0
     # via -r requirements.in
+psycopg2-binary==2.9.9
+    # via -r requirements.in
 pycparser==2.22
     # via cffi
 pydantic==1.6.2
